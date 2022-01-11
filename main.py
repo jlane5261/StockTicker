@@ -1,7 +1,10 @@
-# This is a sample Python script.
+# Initial Script to initiate input output
+import os
 
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
+os.system('mode con: cols=100 lines=40')
+input("Press any key to continue...")
+
+
 
 
 def print_hi(name):
